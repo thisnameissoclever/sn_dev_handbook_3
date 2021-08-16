@@ -1,0 +1,1 @@
+var shortDesc = grInc.short_description;
