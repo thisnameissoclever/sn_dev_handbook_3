@@ -1,0 +1,1 @@
+var propIsTen = gs.getProperty('my_prop', 10) === 10;

@@ -1,0 +1,1 @@
+isValidRecord ? updateRecord() : logWarning('Record invalid');
