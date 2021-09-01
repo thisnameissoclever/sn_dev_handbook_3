@@ -1,0 +1,1 @@
+var MYCUSTOMTABLEQUERY = 'u_active=true^sys_updated_onONLast 30days@javascript:gs.beginningOfLast30Days()@javascript:gs.endOfLast30Days()';

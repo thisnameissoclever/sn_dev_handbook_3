@@ -1,0 +1,1 @@
+javascript:if (!current.sys_created_on.nil()) { 'This record was created by ' + gs.getUser().getDisplayName() + ' on ' + current.getValue('sys_created_on'); }
